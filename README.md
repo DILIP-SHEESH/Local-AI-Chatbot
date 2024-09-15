@@ -1,5 +1,3 @@
-# Local-AI-Chatbot
-
 # Local LLM Chatbot with Ollama and Langchain
 
 This project implements a simple chatbot using the LLaMA model from the Ollama API and Langchain for prompt handling. The bot can engage in conversations and maintains context throughout the interaction.
